@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the SimpleSAML Authentication for CUL feature.
+ */
+
+include_once 'simplesaml_authentication_for_cul.features.inc';
